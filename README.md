@@ -7,7 +7,7 @@ Welcome to the Hangman Game project! This is a classic Hangman game implemented 
 - **Classic Hangman Gameplay:** Guess the letters of a hidden word before the hangman is fully drawn.
 - **Interactive Graphics:** Enjoy a visually appealing interface created with Pygame.
 - **Random Word Selection:** A list of words from which a new word is chosen randomly each time you play.
-- **User-friendly Interface:** Simple and intuitive controls making it easy for anyone to play.
+- **User-friendly Interface:** Simple and intuitive controls make it easy for anyone to play.
 
 ## Installation
 
@@ -45,9 +45,14 @@ python hangman.py
    
 3. **Win or Lose:** Try to guess the word before the hangman is complete to win the game.
 
-   
+    
 ## Screenshots
+```markdown
+![Game Start Screen]
+![GamePlay Screen]
+![Game Over Screen]
 
+```
 
 ## Contributing
 Contributions are welcome! Feel free to create a pull request or open an issue if you have any suggestions or improvements.
