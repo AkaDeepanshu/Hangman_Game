@@ -40,7 +40,7 @@ guessed = []
 # load images
 images=[]
 for i in range(7):
-    image = pygame.image.load("Projects/Hangman/assets/hangman" + str(i) + ".png")
+    image = pygame.image.load("assets/hangman" + str(i) + ".png")
     images.append(image)
 
 
