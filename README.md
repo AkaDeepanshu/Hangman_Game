@@ -16,8 +16,8 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
 
  ```bash
-   git clone https://github.com/yourusername/hangman-pygame.git
-   cd hangman-pygame
+   git clone https://github.com/AkaDeepanshu/Hangman_Game.git
+   cd Hangman_Game
   ```
 
 2. **Install Dependencies:**
@@ -48,10 +48,10 @@ python hangman.py
     
 ## Screenshots
 ```markdown
-![Game Start Screen](screenshots/GameStart.png)
-![GamePlay1 Screen](screenshots/Gameplay1.png)
-![GamePlay2 Screen](screenshots/Gameplay2.png)
-![Game Over Screen](screenshots/GameOver2.png)
+`![Game Start Screen](screenshots/GameStart.png)`
+`![GamePlay1 Screen](screenshots/Gameplay1.png)`
+`![GamePlay2 Screen](screenshots/Gameplay2.png)`
+`![Game Over Screen](screenshots/GameOver2.png)`
 
 ```
 
