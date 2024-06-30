@@ -47,13 +47,16 @@ python hangman.py
 
     
 ## Screenshots
-```markdown
-`![Game Start Screen](screenshots/GameStart.png)`
-`![GamePlay1 Screen](screenshots/Gameplay1.png)`
-`![GamePlay2 Screen](screenshots/Gameplay2.png)`
-`![Game Over Screen](screenshots/GameOver2.png)`
-
-```
+<div>
+ <h3>1. Game Start Screen</h3>
+<img src='screenshots/GameStart.png' alt="Game Start Screen" align="center" height="500px" width="700px">
+ <h3>2. Game Play Screen</h3>
+<img src='screenshots/Gameplay1.png' alt="GamePlay 1 Screen" align="center" height="500px" width="700px"><br>
+<img src='screenshots/Gameplay2.png' alt="GamePlay2 Screen" align="center" height="500px" width="700px">
+ </div>
+ <h3>3. Game Over Screen</h3>
+<img src='screenshots/GameOver2.png' alt="Game Over Screen" align="center" height="500px" width="700px">
+</div>
 
 ## Contributing
 Contributions are welcome! Feel free to create a pull request or open an issue if you have any suggestions or improvements.
