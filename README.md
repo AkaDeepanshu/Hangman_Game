@@ -48,9 +48,10 @@ python hangman.py
     
 ## Screenshots
 ```markdown
-![Game Start Screen]
-![GamePlay Screen]
-![Game Over Screen]
+![Game Start Screen](screenshots/GameStart.png)
+![GamePlay1 Screen](screenshots/Gameplay1.png)
+![GamePlay2 Screen](screenshots/Gameplay2.png)
+![Game Over Screen](screenshots/GameOver2.png)
 
 ```
 
